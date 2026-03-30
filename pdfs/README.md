@@ -1,7 +1,3 @@
-# PDFs Folder
-
-Place your PDF documents here.
-
 ## Required File
 
 **Satyam_Pandey_Resume.pdf**
